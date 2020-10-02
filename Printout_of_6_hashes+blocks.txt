@@ -1,0 +1,75 @@
+
+
+runfile('C:/Users/jfw/Documents/20-Python/Blockchain - simple/Simple_Blockchain16-with_hash_and_chain_clocktime+time_pprint_json.py', wdir='C:/Users/jfw/Documents/20-Python/Blockchain - simple')
+
+
+
+72fd8c62e6dcf3c507f3f04c694317032b0d56731a4098d3561bc2eee728fb51
+ 
+294c535347f6c866e5e2f36fc4a5fd6abe49063a4462e68cbd4019f6fb9fcef4
+ 
+27b076159bc5abbe7a726cfab3711e3730fd713bae47b5ad1c465a92e7f3d701
+ 
+6eda7036fe59a2dda6ee71c74f81835015563b7aedaba8c7ead7ee6357a1daf6
+ 
+c5cffb79561586b1f4404778be9c5839ea5aa5a3cc3348ca4bb8d0b8cbae7bf9
+ 
+24ce2e145406e713628580f949099e83b9481f101dc403ec9e4ea77cff30324f
+ 
+fea15c125dbbfe6d08e0a20fc73297c59274c36a4889156d3d57a50ca9e86573
+ 
+{
+   "index": 0,
+   "timestamp": "Fri Oct  2 00:17:07 2020",
+   "data": "created by jfw",
+   "hash": "72fd8c62e6dcf3c507f3f04c694317032b0d56731a4098d3561bc2eee728fb51",
+   "previousHash": "this is the first block: only jfw knows previous hashes"
+}
+ 
+{
+   "index": 1,
+   "timestamp": "Fri Oct  2 00:17:12 20201601623032.3608992",
+   "data": "really important data1",
+   "hash": "294c535347f6c866e5e2f36fc4a5fd6abe49063a4462e68cbd4019f6fb9fcef4",
+   "previousHash": "72fd8c62e6dcf3c507f3f04c694317032b0d56731a4098d3561bc2eee728fb51"
+}
+ 
+{
+   "index": 2,
+   "timestamp": "Fri Oct  2 00:17:14 20201601623034.8009887",
+   "data": "really important data2",
+   "hash": "27b076159bc5abbe7a726cfab3711e3730fd713bae47b5ad1c465a92e7f3d701",
+   "previousHash": "294c535347f6c866e5e2f36fc4a5fd6abe49063a4462e68cbd4019f6fb9fcef4"
+}
+ 
+{
+   "index": 3,
+   "timestamp": "Fri Oct  2 00:17:16 20201601623036.3670397",
+   "data": "really important data3",
+   "hash": "6eda7036fe59a2dda6ee71c74f81835015563b7aedaba8c7ead7ee6357a1daf6",
+   "previousHash": "27b076159bc5abbe7a726cfab3711e3730fd713bae47b5ad1c465a92e7f3d701"
+}
+ 
+{
+   "index": 4,
+   "timestamp": "Fri Oct  2 00:17:17 20201601623037.9730964",
+   "data": "really important data4",
+   "hash": "c5cffb79561586b1f4404778be9c5839ea5aa5a3cc3348ca4bb8d0b8cbae7bf9",
+   "previousHash": "6eda7036fe59a2dda6ee71c74f81835015563b7aedaba8c7ead7ee6357a1daf6"
+}
+ 
+{
+   "index": 5,
+   "timestamp": "Fri Oct  2 00:17:19 20201601623039.4891465",
+   "data": "really important data5",
+   "hash": "24ce2e145406e713628580f949099e83b9481f101dc403ec9e4ea77cff30324f",
+   "previousHash": "c5cffb79561586b1f4404778be9c5839ea5aa5a3cc3348ca4bb8d0b8cbae7bf9"
+}
+ 
+{
+   "index": 6,
+   "timestamp": "Fri Oct  2 00:17:20 20201601623040.8111756",
+   "data": "really important data6",
+   "hash": "fea15c125dbbfe6d08e0a20fc73297c59274c36a4889156d3d57a50ca9e86573",
+   "previousHash": "24ce2e145406e713628580f949099e83b9481f101dc403ec9e4ea77cff30324f"
+}
